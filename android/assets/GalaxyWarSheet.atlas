@@ -1,0 +1,293 @@
+
+GalaxyWarSheet.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+audioOff
+  rotate: false
+  xy: 2, 19
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+audioOn
+  rotate: false
+  xy: 54, 19
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+bold_silver
+  rotate: false
+  xy: 931, 121
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+button0
+  rotate: false
+  xy: 185, 156
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+button1
+  rotate: false
+  xy: 185, 203
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 377, 207
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+knob
+  rotate: false
+  xy: 2, 7
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+laserBlue
+  rotate: false
+  xy: 786, 21
+  size: 9, 54
+  orig: 9, 54
+  offset: 0, 0
+  index: -1
+meteorBrown_big1
+  rotate: false
+  xy: 400, 29
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+meteorBrown_big2
+  rotate: false
+  xy: 569, 154
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+meteorBrown_big3
+  rotate: false
+  xy: 594, 70
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+meteorBrown_big4
+  rotate: false
+  xy: 691, 156
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+meteorBrown_med1
+  rotate: false
+  xy: 792, 111
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+meteorBrown_med2
+  rotate: false
+  xy: 837, 114
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+meteorBrown_small1
+  rotate: false
+  xy: 797, 47
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+meteorBrown_small2
+  rotate: false
+  xy: 797, 19
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+meteorBrown_tiny1
+  rotate: false
+  xy: 534, 31
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+meteorBrown_tiny2
+  rotate: false
+  xy: 594, 53
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+meteorGrey_big1
+  rotate: false
+  xy: 400, 115
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+meteorGrey_big2
+  rotate: false
+  xy: 185, 56
+  size: 120, 98
+  orig: 120, 98
+  offset: 0, 0
+  index: -1
+meteorGrey_big3
+  rotate: false
+  xy: 503, 51
+  size: 89, 82
+  orig: 89, 82
+  offset: 0, 0
+  index: -1
+meteorGrey_big4
+  rotate: false
+  xy: 791, 156
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+meteorGrey_med1
+  rotate: false
+  xy: 106, 26
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+meteorGrey_med2
+  rotate: false
+  xy: 884, 113
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+meteorGrey_small1
+  rotate: false
+  xy: 965, 125
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+meteorGrey_small2
+  rotate: false
+  xy: 503, 23
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+meteorGrey_tiny1
+  rotate: false
+  xy: 554, 31
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+meteorGrey_tiny2
+  rotate: false
+  xy: 569, 137
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+pill_blue
+  rotate: false
+  xy: 151, 37
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+player
+  rotate: false
+  xy: 685, 2
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+playerDoubleGun
+  rotate: false
+  xy: 691, 79
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+playerLife1_blue
+  rotate: false
+  xy: 989, 226
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+powerUp
+  rotate: false
+  xy: 503, 135
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+propulsion
+  rotate: false
+  xy: 377, 159
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+shield_silver
+  rotate: false
+  xy: 792, 77
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+slider
+  rotate: false
+  xy: 377, 201
+  size: 190, 4
+  orig: 190, 4
+  offset: 0, 0
+  index: -1
+star_silver
+  rotate: false
+  xy: 989, 158
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+things_silver
+  rotate: false
+  xy: 989, 192
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+touchpad_background
+  rotate: false
+  xy: 2, 71
+  size: 181, 181
+  orig: 181, 181
+  offset: 0, 0
+  index: -1
+touchpad_knob
+  rotate: false
+  xy: 891, 155
+  size: 96, 97
+  orig: 96, 97
+  offset: 0, 0
+  index: -1
+ufoBlue
+  rotate: false
+  xy: 307, 63
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+shieldEffect.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shield
+  rotate: false
+  xy: 2, 2
+  size: 72, 69
+  orig: 72, 69
+  offset: 0, 0
+  index: 2
+shield
+  rotate: false
+  xy: 76, 11
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: 1
+shield
+  rotate: false
+  xy: 150, 17
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: 0
